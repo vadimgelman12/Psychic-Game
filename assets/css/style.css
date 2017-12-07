@@ -1,0 +1,11 @@
+
+.container{
+	text-align: center
+}
+
+.vertical-center {
+  min-height: 100%;
+
+  display: flex;
+  align-items: center;
+}
